@@ -1,16 +1,16 @@
 <h1 align="center">Olá 👋, prazer Carlos Cajado</h1>
-<h3 align="center">Desenvolvedor Full Stack do Brasil</h3>
+<h3 align="center">Desenvolvedor Full Stack from Brazil</h3>
 
-- 🌱 Atualmente estou aprendendo **Engenheiro de Computação**
+- 🌱 **Computer Engineer**
 
-- 👨 ‍💻 Todos os meus projetos estão disponíveis em [https://web-portifolio.netlify.app/#home](https://web-portifolio.netlify.app/#home)
+- 👨 ‍💻 Meu portifolio  em [https://web-portifolio.netlify.app/](https://web-portifolio.netlify.app/#home)
 
-- 📫 Como entrar em contato comigo **carlos .cajado@discente.ufma.br**
+- 📫 Como entrar em contato comigo **carlos.cajado@discente.ufma.br**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://dev.to/cajado.dev " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg " alt="cajado.dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carloscajadodev/" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carloscajadodev /" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carloscajadodev/" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carloscajadodev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
