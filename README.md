@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, prazer Carlos Cajado</h1>
+<h1 align="center">Hi 👋, I'm  Carlos Cajado. Nice to meet you </h1>
 <h3 align="center">Desenvolvedor Full Stack from Brazil</h3>
 
 <div style="display: inline_block;" ><br>
