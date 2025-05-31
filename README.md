@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Carlos Cajado. Nice to meet you </h1>
-<h3 align="center">Desenvolvedor Full Stack from Brazil</h3>
+<h3 align="center">Machine Learning Engineer from Brazil</h3>
 
 <div style="display: inline_block;" ><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloscajado&show_icons=true&locale=en&layout=compact" alt="carloscajado" /> </p>
